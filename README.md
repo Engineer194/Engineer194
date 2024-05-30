@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Electronics Engineer.
 - 👀 I’m interested in Ethical Hacking, Microcontrollers, C#, SQL, Joomla, WEB administration! 
-- 🌱 I’m currently learning Ethical Hacking courses.
+- 🌱 I’m currently learning AI courses.
 - 📫 How to reach me @: [private WEB](https://ver-tera.org/)
 
 <!---
