@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Electronics Engineer.
-- 👀 I’m interested in Ethical Hacking, Microcontrollers, AI, C#, SQL, Joomla, WEB administration! 
+- 👀 I’m interested in Ethical Hacking, Microcontrollers, AI, C#, SQL, Joomla and WEB administration! 
 - 🌱 I’m currently learning AI courses.
 - 📫 How to reach me @: [private WEB](https://ver-tera.org/)
 
