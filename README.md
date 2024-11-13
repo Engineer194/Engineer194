@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Electronics Engineer.
-- 👀 I’m interested in Ethical Hacking, Microcontrollers, AI, C#, SQL, Joomla and WEB administration!
+- 🎓 Hi, I’m Electronics Engineer.
+- 🍀 I’m interested in Ethical Hacking, Microcontrollers, AI, C#, SQL, Joomla and WEB administration!
 
 <!---
 Engineer194/Engineer194 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
